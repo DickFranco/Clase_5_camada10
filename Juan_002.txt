@@ -1,3 +1,7 @@
 bbbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 
 SOY JUAN Y MODIFIQUE MI PROPIO ARCHIVO NÚMERO 2
+=======
+Se modifica este archivo
+>>>>>>> 9f144162a07d728f8c3948e71cb047b30b9c5a0c
