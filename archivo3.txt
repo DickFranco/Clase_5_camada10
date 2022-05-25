@@ -1,2 +1,7 @@
 Este es el tercer archivo
+<<<<<<< HEAD
+
+¡Y FUE MODIFICADO POR JUAN!
+=======
 Esta es la nueva información agregada
+>>>>>>> 9f144162a07d728f8c3948e71cb047b30b9c5a0c

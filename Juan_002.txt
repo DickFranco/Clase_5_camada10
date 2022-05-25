@@ -1,3 +1,12 @@
 bbbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 Se modifica este archivo
 Esta es la modificación de Dick
+=======
+<<<<<<< HEAD
+
+SOY JUAN Y MODIFIQUE MI PROPIO ARCHIVO NÚMERO 2
+=======
+Se modifica este archivo
+>>>>>>> 9f144162a07d728f8c3948e71cb047b30b9c5a0c
+>>>>>>> 4f19a2a62867399442ac0dc91fc788b693dd685e
